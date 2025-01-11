@@ -1,0 +1,490 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .fira-sans-extralight {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .fira-sans-extrabold {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .fira-sans-black {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .fira-sans-thin-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .fira-sans-extralight-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .fira-sans-light-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .fira-sans-regular-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .fira-sans-medium-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .fira-sans-semibold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .fira-sans-bold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .fira-sans-extrabold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .fira-sans-black-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+  /* style start */
+
+.pstu{
+ 
+   
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-radius: 24px;
+    max-width: 1280px;
+    max-height: 765px;
+  
+ 
+}
+
+.hero{
+    width:475px;
+    height:400px;
+}
+.btn-primary{
+    background-color: #006A50;
+    width: 270px;
+    height:56px;
+    padding:17px 34px;
+    color:#FFFFFF;
+    font-weight:18px;
+    font-style:semibold;
+    border-radius: 8px;
+}
+.btn-primary:hover{
+  color:yellow;
+}
+.banner{
+    display:flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding:100px 80px;
+    margin-left:160px;
+    margin-right: 160px;
+    margin-top:20px;
+    margin-bottom:80px;
+    border-radius:24px;
+    max-width: 1280px;
+    max-height: 560px;
+    
+    
+   
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 56px;
+    width: 622px;
+    height:200px;
+    color:#0E0E0E;
+}
+.banner-content{
+    max-width: 620px;
+    column-gap: 10px;
+
+}
+.banner-greetings{
+    color:rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: medium;
+    width:170px;
+    height:36px;
+}
+.cards{
+  width:1271px;
+  height:325px;
+  display: flex;
+  gap:24px;
+  margin-right: 160px;
+  margin-left:160px;
+
+}
+.card-1{
+  width:410px;
+  height: 325px;
+  padding:32px 32px;
+  gap: 24px;
+  background-color:#5490F5;
+  border-radius: 16px;
+}
+.card-2{
+  width:410px;
+  height: 325px;
+  padding:32px 32px;
+  gap: 24px;
+  background-color:#C6E4D6;
+  border-radius: 16px;
+}
+.card-3{
+  width:410px;
+  height: 325px;
+  padding:32px 32px;
+  gap: 24px;
+  background-color:#F7EBCF;
+  border-radius: 16px;
+}
+.btn-secondary{
+  width: 122px;
+  height: 41px;
+  padding:11px 20px;
+  color:#FFFFFF;
+  background-color: #5490F5;
+}
+.btn-secondary:hover{
+  color:yellow;
+}
+.btn-3{
+  width: 122px;
+  height: 41px;
+  padding:11px 20px;
+  color:#FFFFFF;
+  background-color: #487560;
+}
+.btn-3:hover{
+  color:yellow;
+}
+.btn-4{
+  width: 122px;
+  height: 41px;
+  padding:11px 20px;
+  color:#FFFFFF;
+  background-color: #FFC239;
+
+}
+.btn-4:hover{
+  color:yellow;
+}
+.card-description{
+  font-weight: Regular;
+  font-size: 16px;
+  color:#0E0E0E;
+}
+.card-title{
+  font-weight: bold;
+  font-size: 20px;
+  color:#0E0E0E
+}
+
+.pstu-1{
+  width:1280px;
+  height:120px;
+}
+
+.section-title{
+  width: 1280px;
+  margin-left: 160px;
+  margin-right: 160px;
+ 
+}
+.section-description{
+  margin-left: 160px;
+  margin-right: 160px;
+  
+
+}
+.donate{
+  max-width: 1280px;
+  max-height: 465px;
+  margin-top: 80px;
+  margin-left: 160px;
+  margin-right: 160px;
+  justify-content: center;
+  padding: 5px 105px;
+  background-color: #F1F1F3;
+  border-radius: 24px;
+  gap: 32px;
+}
+.donate-taka{
+  width: 1071px;
+  height:128px;
+  display: flex;
+  gap: 24px;
+  
+}
+.tk-100{
+  width:200px;
+  height:40px;
+  background-color:aliceblue;
+  border-radius: 16px;
+  padding:30px 30px;
+  color: #0E0E0E;
+  text-align: center;
+}
+.tk-200{
+  width:200px;
+  height:40px;
+  background-color:#C6E4D6;
+  border-radius: 16px;
+  padding:30px 30px;
+  color: #0E0E0E;
+  text-align: center;
+}
+.tk-500{
+  width:200px;
+  height:40px;
+  background-color:aliceblue;
+  border-radius: 16px;
+  padding:30px 30px;
+  color: #0E0E0E;
+  text-align: center;
+}
+.tk-1000{
+  width:250px;
+  height:40px;
+  background-color:aliceblue;
+  border-radius: 16px;
+  padding:30px 30px;
+  color: #0E0E0E;
+  text-align: center;
+}
+
+.btn-tk{
+  width:150px;
+  height: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 8px;
+  background-color: #006A50;
+  color:#FFFFFF;
+  align-content: center;
+  margin:auto;
+ 
+  
+ 
+}
+.btm-tk:hover{
+  color:yellow;
+}
+.donate-title{
+  text-align: center;
+  padding: auto;
+
+}
+.donate-description{
+  text-align: center;
+}
+.subscription-part{
+  max-width: 1280px;
+  max-height: 395px;
+  margin-top: 80px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-bottom: 80px;
+  background-color: #C6E4D6;;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border-radius: 24px;
+
+}
+.subscription-title{
+  margin-left: 160px;
+  align-items: center;}
+.subscription-description{
+align-items: center;
+}
+
+
+.ios{
+  width: 550px;
+  height: 5px;
+ 
+  padding: 20px 10px;
+  margin:0 auto;
+}
+.ios-01{
+  width:140px;
+  height:47px;
+  padding-left:20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #006A50;
+  color:#FFFFFF;
+}
+.ios-01:hover{
+  color:#5490F5;
+}
+.ios-2{
+  width: 1000px;
+  height: 20px;
+ padding: 20px 10px;
+ background-color: #FFFFFF;
+ text-align: center;
+}
+.ios-4{
+  width: 750px;
+  height: 235px;
+  padding: 80px 200px;
+}
+.short-part{
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width:1280px;
+  height: 120px;
+  gap:24px;
+
+
+}
+.short-part-1{
+  width: 1280px;
+  height: 48px;
+  font-weight:bold ;
+  font-size: 40px;
+}
+.short-part-2{
+  width: 1280px;
+  height: 48px;
+}
+.AlJAZEERA{
+  width: 139px;
+  height: 48px;
+  background-color: #006A50;
+  color:#FFFFFF;
+  border-radius: 8px;
+  padding: 10px 20px;
+  text-align: center; 
+}
+.AlJAZEERA:hover{
+  color:yellow;
+}
+.bijoy-24{
+  display:flex;
+  margin-top:80px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-bottom: 80px;
+  gap: 32px;
+  background-color: #F1F1F3;
+  padding:48px 48px;
+  border-radius: 24px;
+}
+.ios-6{
+  width: 408px;
+  height:306px;
+  border-radius: 24px;
+}
+.ios-7{
+  width: 744px;
+  height: 290px;
+}
+.ios-10{
+  display:flex;
+  margin-left:160px;
+  margin-right: 160px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  background-color: #F1F1F3;
+  padding:48px 48px;
+  border-radius: 24px;
+}
+.ios-11{
+  width: 744px;
+  height: 290px;
+}
+.ios-12{
+  width: 408px;
+  height:306px;
+  border-radius: 24px;
+}
+.promise{
+  text-align: center;
+}
+.quote{
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width: 1280px;
+  height: 256px;
+  background-color: #F1F1F3;
+  padding:24px 48px;
+  border-radius: 24px;
+}
